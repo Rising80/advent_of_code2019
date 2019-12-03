@@ -1,0 +1,10 @@
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\bin\Debug\Puzzle03.exe.config
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.vbprojResolveAssemblyReference.cache
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.Resources.resources
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.vbproj.GenerateResource.Cache
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\bin\Debug\Puzzle03.exe
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\bin\Debug\Puzzle03.pdb
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\bin\Debug\Puzzle03.xml
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.exe
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.xml
+C:\Personal\Projects\AdventOfCode2019\Puzzle03\obj\Debug\Puzzle03.pdb

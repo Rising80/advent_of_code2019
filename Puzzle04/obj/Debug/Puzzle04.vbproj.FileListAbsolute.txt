@@ -1,0 +1,14 @@
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\bin\Debug\Puzzle04.exe.config
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\bin\Debug\Puzzle04.exe
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\bin\Debug\Puzzle04.pdb
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\bin\Debug\Puzzle04.xml
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.vbprojResolveAssemblyReference.cache
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.Resources.resources
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.vbproj.GenerateResource.Cache
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.exe
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.xml
+C:\Personal\Projects\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.pdb
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle04\bin\Debug\Puzzle04.exe.config
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle04\obj\Debug\Puzzle04.pdb
