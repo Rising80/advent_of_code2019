@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7FBEE51C-8EB8-478B-ABF0-2A17BB71D97E}</ProjectGuid>
+    <ProjectGuid>{A4FF90C9-CE9A-4D62-B328-CD7929457FD4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Puzzle03.Module1</StartupObject>
-    <RootNamespace>Puzzle03</RootNamespace>
-    <AssemblyName>Puzzle03</AssemblyName>
+    <StartupObject>Puzzle04.Module1</StartupObject>
+    <RootNamespace>Puzzle04</RootNamespace>
+    <AssemblyName>Puzzle04</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MyType>Console</MyType>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>Puzzle03.xml</DocumentationFile>
+    <DocumentationFile>Puzzle04.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -31,7 +31,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>Puzzle03.xml</DocumentationFile>
+    <DocumentationFile>Puzzle04.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
   </PropertyGroup>
   <PropertyGroup>
