@@ -1,0 +1,10 @@
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\bin\Debug\Puzzle06.exe.config
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\bin\Debug\Puzzle06.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\bin\Debug\Puzzle06.pdb
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\bin\Debug\Puzzle06.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.vbprojResolveAssemblyReference.cache
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.Resources.resources
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.vbproj.GenerateResource.Cache
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle06\obj\Debug\Puzzle06.pdb
