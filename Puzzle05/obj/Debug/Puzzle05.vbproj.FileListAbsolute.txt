@@ -1,0 +1,10 @@
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\bin\Debug\Puzzle05.exe.config
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\bin\Debug\Puzzle05.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\bin\Debug\Puzzle05.pdb
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\bin\Debug\Puzzle05.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.vbprojResolveAssemblyReference.cache
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.Resources.resources
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.vbproj.GenerateResource.Cache
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05\obj\Debug\Puzzle05.pdb

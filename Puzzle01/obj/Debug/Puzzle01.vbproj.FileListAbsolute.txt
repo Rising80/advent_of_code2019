@@ -7,3 +7,7 @@ C:\Personal\Projects\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.vbproj.Generat
 C:\Personal\Projects\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.exe
 C:\Personal\Projects\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.xml
 C:\Personal\Projects\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.pdb
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle01\bin\Debug\Puzzle01.exe.config
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.xml
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle01\obj\Debug\Puzzle01.pdb

@@ -1,0 +1,6 @@
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\bin\Debug\Puzzle05_CSharp.exe.config
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\obj\Debug\Puzzle05_CSharp.csprojResolveAssemblyReference.cache
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\bin\Debug\Puzzle05_CSharp.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\bin\Debug\Puzzle05_CSharp.pdb
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\obj\Debug\Puzzle05_CSharp.exe
+C:\Personal\Projects VS 2015\AdventOfCode2019\Puzzle05_CSharp\obj\Debug\Puzzle05_CSharp.pdb
